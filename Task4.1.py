@@ -10,5 +10,3 @@ for i in os.listdir():
             print ('success')
         else:
             print (i + ' failed to match output')
-
-
